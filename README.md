@@ -61,5 +61,5 @@
   <img src="https://streak-stats.demolab.com?user=sibbyalamohankrishna&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-## 🔝 Top Contributed Repo
+<!--## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sibbyalamohankrishna&limit=5&theme=dark&combine_all_yearly_contributions=true)
